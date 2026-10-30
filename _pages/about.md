@@ -13,13 +13,12 @@ I am a Ph.D. candidate in Economics at Seoul National University. My research in
 
 ## Job Market Paper
 
-**The Intergenerational Transmission of Gender Role Attitude: Longitudinal Evidence from Taiwan**
-*Draft available upon request*
-An earlier version received the Hakbong Scholarship Award for Outstanding Thesis on East Asia (Grand Prize), 2026
+**The Intergenerational Transmission of Gender Role Attitude: Longitudinal Evidence from Taiwan**<br>
+*Draft available upon request*<br>
 
 ## Education
 
-- Ph.D. in Economics, Seoul National University, expected February 2027  
+- Ph.D. in Economics, Seoul National University, expected February 2027<br>
   Advisor: Jungmin Lee
 - M.A. in Economics, Sogang University, 2019
 - B.A. in Korean Language and Literature, Tianjin Normal University, 2014
